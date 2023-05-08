@@ -1,4 +1,4 @@
 # Tentativa
 Experimentando Repositorys
 
-Eu gosto de computadores
+Eu gosto de computadores.
