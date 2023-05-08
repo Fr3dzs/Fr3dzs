@@ -1,4 +1,4 @@
-# Tentativa
-Experimentando Repositorys
-
-Eu gosto de computadores.
+# __Hello there!__ 
+- I like programming!
+- Learning Outsystems, javascript, node and python!
+- I like everything IT related 😄
